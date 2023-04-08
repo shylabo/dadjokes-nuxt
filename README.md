@@ -1,6 +1,9 @@
 # dadjokes
 
 This is a Dad Joke application developed using Nuxt.js and Vue.js, providing you with a hilarious collection of Dad Jokes to brighten up your day.
+<img width="851" alt="Screenshot 2023-04-08 at 12 52 36" src="https://user-images.githubusercontent.com/41677855/230740275-723dd5fe-75a0-4266-80c4-0211a6f0eff9.png">
+<img width="832" alt="Screenshot 2023-04-08 at 12 52 46" src="https://user-images.githubusercontent.com/41677855/230740278-f720a11c-715f-4ee0-88a2-2f90309fdfe6.png">
+
 
 ## Build Setup
 
